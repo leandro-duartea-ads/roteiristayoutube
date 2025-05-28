@@ -1,0 +1,6 @@
+{
+  "name": "Roteirista IA para YouTube",
+  "description": "Um aplicativo para gerar roteiros para canais do YouTube sem rosto usando IA. Insira o tópico do seu vídeo e obtenha um roteiro detalhado, incluindo sugestões de elementos visuais.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
